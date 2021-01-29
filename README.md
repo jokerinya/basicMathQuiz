@@ -1,4 +1,6 @@
-# vue-cli
+# Basic Math Quiz
+This project has been made with VueJS and Bootstrap. You can see live demo [here](https://jokerinyabasicquiz.netlify.app/).  
+Simple math question application. At the creation of this project, the [Udemy lesson](https://www.udemy.com/course/vuejs-2-the-complete-guide/) has been benefited. 
 
 > A Vue.js project
 
